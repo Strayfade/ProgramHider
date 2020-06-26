@@ -1,1 +1,2 @@
 # ProgramHider
+[Strayfade Logo]()
