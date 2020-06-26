@@ -5,6 +5,6 @@ ProgramHider is a program that I built to hide programs from the Desktop/Screen 
 **Controls:**
 
 
-`\` to Hide/Show Window
+`\ (Backslash)` to Hide/Show Window
 
 `INSERT` to close ProgramHider
