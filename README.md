@@ -8,6 +8,8 @@ ProgramHider is a program that I built to hide programs from the Desktop/Screen 
 `\ (Backslash)` to Hide/Show Window
 
 `INSERT` to close ProgramHider
+
+`DELETE` to change a window's size!
 #
 
 # More Info
